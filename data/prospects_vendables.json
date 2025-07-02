@@ -1,0 +1,540 @@
+{
+  "metadata": {
+    "dateExport": "2025-07-01T23:31:31.686Z",
+    "totalProspects": 33,
+    "statutsInclus": [
+      "qualifié",
+      "validé",
+      "contacté",
+      "en négociations"
+    ],
+    "description": "Liste de prospects Web3 qualifiés pour la vente",
+    "version": 1,
+    "premierExport": "2025-07-01T23:31:31.686Z"
+  },
+  "prospects": [
+    {
+      "nom": "UnblinkingEye",
+      "handle": "UnblinkingEyeNG",
+      "bio": "Solidity dev | Smart Contract BuilderCreator of HashProof – privacy on-chain Open for freelance • Testnet & Mainnet ready",
+      "avatar": "https://pbs.twimg.com/profile_images/1916990901395570688/XcovvRbw_400x400.jpg",
+      "profilUrl": "https://x.com/UnblinkingEyeNG",
+      "score": 0.4,
+      "potentiel": 3,
+      "statut": "contacté",
+      "tags": [
+        "web3",
+        "blockchain",
+        "defi",
+        "dev",
+        "solidity",
+        "metaverse"
+      ],
+      "derniereMiseAJour": "2025-06-27T12:37:53.578Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "Jason | Web3 Product Manager",
+      "handle": "Hello_JACE",
+      "bio": "Helping remote Web3 founders build products, prioritize smarter and ship faster.",
+      "avatar": "https://pbs.twimg.com/profile_images/1595075237594501121/Dxzx91kW_normal.jpg",
+      "profilUrl": "https://x.com/Hello_JACE",
+      "score": 0.4,
+      "potentiel": 3,
+      "statut": "contacté",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-06-27T12:37:53.578Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "Kay - Web3 PM",
+      "handle": "portal_kay",
+      "bio": "#StableCoin",
+      "avatar": "https://pbs.twimg.com/profile_images/1910628552372084736/djqCbc-F_normal.jpg",
+      "profilUrl": "https://x.com/portal_kay",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "contacté",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-06-27T12:47:18.458Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "Uncle EBUKA",
+      "handle": "ebukannaemeka_",
+      "bio": "Crypto Product Ninja",
+      "avatar": "https://pbs.twimg.com/profile_images/1934735909867405312/7bxtd3If_normal.jpg",
+      "profilUrl": "https://x.com/ebukannaemeka_",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "contacté",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-06-27T13:01:37.505Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "Onur",
+      "handle": "pelenko",
+      "bio": "Web3 Product Manager / Founder of Rocke Club",
+      "avatar": "https://pbs.twimg.com/profile_images/1727138606349713408/pJcQNwbW_normal.jpg",
+      "profilUrl": "https://x.com/pelenko",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "contacté",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-06-27T13:04:50.839Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "Jorge Ordovás",
+      "handle": "joobid",
+      "bio": "Web3 product manager at Telefónica",
+      "avatar": "https://pbs.twimg.com/profile_images/1854808294562418688/i6S9x12b_normal.jpg",
+      "profilUrl": "https://x.com/joobid",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "contacté",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-06-27T13:20:47.814Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "TONY",
+      "handle": "LiteT0NY",
+      "bio": "| web3 consultant | product manager | LiteTony.eth litetony.sol",
+      "avatar": "https://pbs.twimg.com/profile_images/1809183502455451648/arvV7oIf_normal.jpg",
+      "profilUrl": "https://x.com/LiteT0NY",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "contacté",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-06-27T13:27:39.499Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "Lam Trinh",
+      "handle": "LamWeb3",
+      "bio": "Product Manager / Engineer |",
+      "avatar": "https://pbs.twimg.com/profile_images/1651183308796207105/docTTzJE_normal.jpg",
+      "profilUrl": "https://x.com/LamWeb3",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-06-27T13:30:05.770Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "Emii",
+      "handle": "Emii_Eth",
+      "bio": "Just a Web3 Girl, in a Web3 World",
+      "avatar": "https://pbs.twimg.com/profile_images/1926395003397431296/V7dt6elF_normal.jpg",
+      "profilUrl": "https://x.com/Emii_Eth",
+      "score": 0.4,
+      "potentiel": 3,
+      "statut": "contacté",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-06-27T12:51:43.716Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "Julia | Crypto | DEFI | Product manager",
+      "handle": "julia_innovator",
+      "bio": "I share how to create products in the field of WEB3 that users will love and pay for. co-founder",
+      "avatar": "https://pbs.twimg.com/profile_images/1732041349019660288/OwAiOJrO_normal.jpg",
+      "profilUrl": "https://x.com/julia_innovator",
+      "score": 0.8999999999999999,
+      "potentiel": 3,
+      "statut": "contacté",
+      "tags": [
+        "web3",
+        "defi",
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-06-27T13:08:05.011Z",
+      "termeRecherche": "blockchain product manager"
+    },
+    {
+      "nom": "Gunto",
+      "handle": "GuntoGotEm",
+      "bio": "CryptoNaut |",
+      "avatar": "https://pbs.twimg.com/profile_images/1526727905241403392/QrkfNRnA_normal.jpg",
+      "profilUrl": "https://x.com/GuntoGotEm",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-06-27T13:30:44.818Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "𝑪𝒓𝒚𝒑𝒕𝒐 𝑴𝒂𝒋𝒐𝒓 𝕏",
+      "handle": "CryptoMajor_",
+      "bio": "𝑪𝒓𝒚𝒑𝒕𝒐 𝑴𝒂𝒋𝒐𝒓",
+      "avatar": "https://pbs.twimg.com/profile_images/1770038611653640192/zZIzZMbP_normal.jpg",
+      "profilUrl": "https://x.com/CryptoMajor_",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-06-27T13:32:47.627Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "OpenUX | making UX research a public good",
+      "handle": "OpenUX_xyz",
+      "bio": "OpenUX is a collective of web3-native product managers, researchers and designers. We work to elevate web3 UX with bespoke studies, coaching, and open insights.",
+      "avatar": "https://pbs.twimg.com/profile_images/1762361267556077568/XH-htoY9_normal.jpg",
+      "profilUrl": "https://x.com/OpenUX_xyz",
+      "score": 0.4,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-06-27T13:33:14.648Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "Ruby | Alpha Network",
+      "handle": "Pancake77ruby",
+      "bio": "The world’s first decentralized AI data execution layer for Web3.（",
+      "avatar": "https://pbs.twimg.com/profile_images/1644315242586083328/01oGTpn-_normal.jpg",
+      "profilUrl": "https://x.com/Pancake77ruby",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "contacté",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-06-27T13:23:47.116Z",
+      "termeRecherche": "nft product manager"
+    },
+    {
+      "nom": "One Guy Like That™",
+      "handle": "izz_ra_el",
+      "bio": "|| The best in End-To-End WEB3 Product Design, Development & Deployment.",
+      "avatar": "https://pbs.twimg.com/profile_images/1900270186088837120/MAFBtXd5_normal.jpg",
+      "profilUrl": "https://x.com/izz_ra_el",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-06-27T13:37:16.539Z",
+      "termeRecherche": "blockchain product manager"
+    },
+    {
+      "nom": "Louis",
+      "handle": "Louis_Dao1",
+      "bio": "A creator who exists in the metaverse /",
+      "avatar": "https://pbs.twimg.com/profile_images/1887898450244911104/v74-7YZ1_normal.jpg",
+      "profilUrl": "https://x.com/Louis_Dao1",
+      "score": 0.2,
+      "potentiel": 2,
+      "statut": "contacté",
+      "tags": [
+        "dao",
+        "metaverse"
+      ],
+      "derniereMiseAJour": "2025-06-27T12:58:17.847Z",
+      "termeRecherche": "nft product manager"
+    },
+    {
+      "nom": "GODLIKE",
+      "handle": "0GODLIKE",
+      "bio": "Web3 | MarTechNetworks Admin",
+      "avatar": "https://pbs.twimg.com/profile_images/1879284478356402177/A0AlK4Nv_normal.jpg",
+      "profilUrl": "https://x.com/0GODLIKE",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:14:12.953Z",
+      "termeRecherche": "blockchain product manager"
+    },
+    {
+      "nom": "toxic product manager in blockchain",
+      "handle": "ymediakov",
+      "bio": "dreamer, but not the only one",
+      "avatar": "https://pbs.twimg.com/profile_images/1675001422436532224/e2SOwivO_normal.jpg",
+      "profilUrl": "https://x.com/ymediakov",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "blockchain"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:14:37.118Z",
+      "termeRecherche": "blockchain product manager"
+    },
+    {
+      "nom": "Blockchain Mama",
+      "handle": "Theblessingemah",
+      "bio": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1753048074119745536/THe8aYh0_normal.jpg",
+      "profilUrl": "https://x.com/Theblessingemah",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "blockchain"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:14:53.372Z",
+      "termeRecherche": "blockchain product manager"
+    },
+    {
+      "nom": "Kerem Karadag",
+      "handle": "keremkaradagcom",
+      "bio": "Crypto Product Manager",
+      "avatar": "https://pbs.twimg.com/profile_images/1769999830732996608/kVoQNgLk_normal.jpg",
+      "profilUrl": "https://x.com/keremkaradagcom",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:15:20.034Z",
+      "termeRecherche": "blockchain product manager"
+    },
+    {
+      "nom": "bl0ckchained",
+      "handle": "bl0ckchained",
+      "bio": "Creator's Economy | Product Manager in Web3 | ARC Stellars",
+      "avatar": "https://pbs.twimg.com/profile_images/1693557811710717953/gfkaeryW_normal.jpg",
+      "profilUrl": "https://x.com/bl0ckchained",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:16:52.777Z",
+      "termeRecherche": "blockchain product manager"
+    },
+    {
+      "nom": "Em-J",
+      "handle": "productmogul1",
+      "bio": "Product Manager @ DeFi",
+      "avatar": "https://pbs.twimg.com/profile_images/1925076025517453312/lE0O4euN_normal.jpg",
+      "profilUrl": "https://x.com/productmogul1",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "defi"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:17:25.988Z",
+      "termeRecherche": "defi product manager"
+    },
+    {
+      "nom": "BifiPal",
+      "handle": "BifiPal",
+      "bio": "BifiPal is a gaming-style DeFi layer serving for holders, protocols and communities. We are hiring Product Manager(DeFi), Backend Developer, and BD !",
+      "avatar": "https://pbs.twimg.com/profile_images/1816343357188386816/9WqH3jH5_normal.jpg",
+      "profilUrl": "https://x.com/BifiPal",
+      "score": 0.4,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "defi"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:18:11.744Z",
+      "termeRecherche": "defi product manager"
+    },
+    {
+      "nom": "Ehren Stowers",
+      "handle": "ehrenstowers",
+      "bio": "Here for the tech. DJ/Producer & Product Manager (Broadcasting). Crypto & Defi evangelist.",
+      "avatar": "https://pbs.twimg.com/profile_images/1032395621959782407/731Gn61__normal.jpg",
+      "profilUrl": "https://x.com/ehrenstowers",
+      "score": 0.6000000000000001,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "defi",
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:19:22.548Z",
+      "termeRecherche": "defi product manager"
+    },
+    {
+      "nom": "Curtis",
+      "handle": "CurttisETH",
+      "bio": "Product Manager and DeFi enthusiast",
+      "avatar": "https://pbs.twimg.com/profile_images/1893476701629296640/LIpyTlp7_normal.jpg",
+      "profilUrl": "https://x.com/CurttisETH",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "defi"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:19:50.269Z",
+      "termeRecherche": "defi product manager"
+    },
+    {
+      "nom": "Dr. Zzullerr",
+      "handle": "Zzullerr",
+      "bio": "| DeFi Insights | Product Manager",
+      "avatar": "https://pbs.twimg.com/profile_images/1888305405580689408/Q6R9hLiV_normal.jpg",
+      "profilUrl": "https://x.com/Zzullerr",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "defi"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:20:05.690Z",
+      "termeRecherche": "defi product manager"
+    },
+    {
+      "nom": "Luceee",
+      "handle": "nft_lucee",
+      "bio": "Luceee@nft_lucee",
+      "avatar": "https://pbs.twimg.com/profile_images/1746364494442582016/TKHQMB7U_normal.jpg",
+      "profilUrl": "https://x.com/nft_lucee",
+      "score": 0.4,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "nft"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:20:59.895Z",
+      "termeRecherche": "defi product manager"
+    },
+    {
+      "nom": "MonkΞyMig",
+      "handle": "magicmonkeymig",
+      "bio": "Product manager • Best NFT brand for now:",
+      "avatar": "https://pbs.twimg.com/profile_images/1884339506624471040/jo-fhYtt_normal.jpg",
+      "profilUrl": "https://x.com/magicmonkeymig",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "nft"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:22:32.261Z",
+      "termeRecherche": "nft product manager"
+    },
+    {
+      "nom": "Disrupted Normality",
+      "handle": "dsrptednrmlty",
+      "bio": "Innovative Product Manager | Crypto & NFT Expert | Web3 Consultant | Trading Bot Developer | Driving Success in Financial Markets",
+      "avatar": "https://pbs.twimg.com/profile_images/1764007465903865857/s1lMXOhO_normal.jpg",
+      "profilUrl": "https://x.com/dsrptednrmlty",
+      "score": 0.8999999999999999,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3",
+        "nft",
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:23:25.560Z",
+      "termeRecherche": "nft product manager"
+    },
+    {
+      "nom": "nobu / 鈴木伸明",
+      "handle": "nobuzuki",
+      "bio": "メルカリ NFT / Principal Product Manager ← メルカリに売却 ← ザワット株式会社 取締役CTO",
+      "avatar": "https://pbs.twimg.com/profile_images/1237948600904081408/CZTMJ3zM_normal.png",
+      "profilUrl": "https://x.com/nobuzuki",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "nft"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:24:03.266Z",
+      "termeRecherche": "nft product manager"
+    },
+    {
+      "nom": "amc",
+      "handle": "andrewmc_",
+      "bio": "SF native, pragmatist, USC Marshall grad, product manager, NFT collector, gen art enthusiast",
+      "avatar": "https://pbs.twimg.com/profile_images/1604885422290526208/S1hXAcJe_normal.jpg",
+      "profilUrl": "https://x.com/andrewmc_",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "nft"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:24:41.351Z",
+      "termeRecherche": "nft product manager"
+    },
+    {
+      "nom": "NFTProductGuy",
+      "handle": "NFTProductGuy",
+      "bio": "Product Manager diving into the world of Web3 & NFTs | Join me in shaping the future of digital experiences!",
+      "avatar": "https://pbs.twimg.com/profile_images/1646962052089499648/vfJQEkAY_normal.jpg",
+      "profilUrl": "https://x.com/NFTProductGuy",
+      "score": 0.8,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3",
+        "nft"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:28:10.772Z",
+      "termeRecherche": "nft product manager"
+    },
+    {
+      "nom": "Garrison",
+      "handle": "NFT_Garrison",
+      "bio": "Product Manager",
+      "avatar": "https://pbs.twimg.com/profile_images/1881842579643269120/11wyP853_normal.jpg",
+      "profilUrl": "https://x.com/NFT_Garrison",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "nft"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:29:59.783Z",
+      "termeRecherche": "nft product manager"
+    },
+    {
+      "nom": "Metanize.nft",
+      "handle": "metanize",
+      "bio": "Founder & Manager, Brooklyn Tech Week | Web3 & AI Strategist | NFT/NFA Product Innovator -",
+      "avatar": "https://pbs.twimg.com/profile_images/1913320024992780288/KzVPj9VO_normal.jpg",
+      "profilUrl": "https://x.com/metanize",
+      "score": 0.7,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3",
+        "nft"
+      ],
+      "derniereMiseAJour": "2025-07-01T23:30:30.626Z",
+      "termeRecherche": "nft product manager"
+    }
+  ]
+}

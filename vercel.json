@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "server.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/server.js"
+    }
+  ],
+  "env": {
+    "NODE_ENV": "production",
+    "NETWORK": "base",
+    "LEADS_CONTRACT_ADDRESS": "0xA55cD301A354Fdffcfa494eFD8A218440bbf227E",
+    "PORT": "3003"
+  }
+} 

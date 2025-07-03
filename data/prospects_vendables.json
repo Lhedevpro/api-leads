@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "dateExport": "2025-07-01T23:31:31.686Z",
-    "totalProspects": 33,
+    "dateExport": "2025-07-03T13:17:58.219Z",
+    "totalProspects": 61,
     "statutsInclus": [
       "qualifié",
       "validé",
@@ -9,7 +9,7 @@
       "en négociations"
     ],
     "description": "Liste de prospects Web3 qualifiés pour la vente",
-    "version": 1,
+    "version": 2,
     "premierExport": "2025-07-01T23:31:31.686Z"
   },
   "prospects": [
@@ -535,6 +535,411 @@
       ],
       "derniereMiseAJour": "2025-07-01T23:30:30.626Z",
       "termeRecherche": "nft product manager"
+    },
+    {
+      "nom": "CRYPTO GLOBAL EXPLORE",
+      "handle": "CryptoGlobalExp",
+      "bio": "CRYPTO INFLUENCER MARKETER",
+      "avatar": "https://pbs.twimg.com/profile_images/1769457795273760768/4vRSArcf_normal.jpg",
+      "profilUrl": "https://x.com/CryptoGlobalExp",
+      "score": 0.5,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T12:59:28.309Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "10𝕏 | MARKETER",
+      "handle": "10Xofweb3",
+      "bio": "Diabolic gains from Crypto 2025➺ PLEASE FADE ME",
+      "avatar": "https://pbs.twimg.com/profile_images/1916112599487246336/D_L4uBYr_normal.jpg",
+      "profilUrl": "https://x.com/10Xofweb3",
+      "score": 0.6000000000000001,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3",
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T12:59:39.569Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "CZ CRYPTO JOURNEY",
+      "handle": "tysyrrr",
+      "bio": "Crypto / NFT  specialist’s",
+      "avatar": "https://pbs.twimg.com/profile_images/1859162966316195840/q93ywOH4_normal.jpg",
+      "profilUrl": "https://x.com/tysyrrr",
+      "score": 0.7,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "nft",
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:00:02.229Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "The Crypto Don",
+      "handle": "Thewheddy",
+      "bio": "Web3 Marketer | Alpha / Insights / Updates / Airdrop | Bag Holder | Crypto Trader / Investor / Analysts | Google-Endorsed | Top legit DA",
+      "avatar": "https://pbs.twimg.com/profile_images/1886343520119648256/BrvYjkls_normal.jpg",
+      "profilUrl": "https://x.com/Thewheddy",
+      "score": 0.8,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3",
+        "crypto",
+        "airdrop"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:00:23.219Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "John Klein CryptoGod",
+      "handle": "Jonnklein",
+      "bio": "Crypto Investor / DMs are open. Tg:",
+      "avatar": "https://pbs.twimg.com/profile_images/1789947241253261312/yHr_zyZI_normal.jpg",
+      "profilUrl": "https://x.com/Jonnklein",
+      "score": 0.4,
+      "potentiel": 3,
+      "statut": "validé",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:00:47.376Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Crypto Lady Official",
+      "handle": "ttig__",
+      "bio": "Crypto / NFT  specialist’s",
+      "avatar": "https://pbs.twimg.com/profile_images/1911535293439574016/cY6YkLsj_normal.jpg",
+      "profilUrl": "https://x.com/ttig__",
+      "score": 0.7,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "nft",
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:01:10.997Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Dylan",
+      "handle": "DylanCrypto77",
+      "bio": "CoolCats #289",
+      "avatar": "https://pbs.twimg.com/profile_images/1770839774170869761/tse1RhZw_normal.jpg",
+      "profilUrl": "https://x.com/DylanCrypto77",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:02:03.251Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Michelle the crypto marketer",
+      "handle": "michellek_web3",
+      "bio": "9+ years in the industry Crypto marketing pro, ex",
+      "avatar": "https://pbs.twimg.com/profile_images/1907096005881065472/1m8GPcNg_normal.jpg",
+      "profilUrl": "https://x.com/michellek_web3",
+      "score": 0.7,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3",
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:02:26.033Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Braver",
+      "handle": "BraverCrypto",
+      "bio": "Entrepreneur / Advisor + Marketer / Investor+Trader / 20 yrs in biz /Degen/",
+      "avatar": "https://pbs.twimg.com/profile_images/1668103694368342016/OOc5Tk3-_normal.jpg",
+      "profilUrl": "https://x.com/BraverCrypto",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:03:07.878Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Mappo Crypto marketer and trader",
+      "handle": "linefiaoao",
+      "bio": "I'v been promoting",
+      "avatar": "https://pbs.twimg.com/profile_images/1698543839110471680/_YsBy5ve_normal.jpg",
+      "profilUrl": "https://x.com/linefiaoao",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:03:57.992Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Katherine",
+      "handle": "Katherine_XBT",
+      "bio": "Top Crypto Marketer• Brand Strategist • BTC & BNB Maxi• x1000 Gem Hunter •",
+      "avatar": "https://pbs.twimg.com/profile_images/1648277329028739073/Lu-EzXJ__normal.jpg",
+      "profilUrl": "https://x.com/Katherine_XBT",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:04:10.352Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Manashi | Web3Marketer",
+      "handle": "manashi_bharati",
+      "bio": "| My tweets are NFA.\n\nHodler of",
+      "avatar": "https://pbs.twimg.com/profile_images/1906069785651150848/O0KPqk_p_normal.jpg",
+      "profilUrl": "https://x.com/manashi_bharati",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:04:33.266Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Crypto Gem Star",
+      "handle": "cryptogemstar",
+      "bio": "Official Partner -",
+      "avatar": "https://pbs.twimg.com/profile_images/1790297158438068224/r2xC5Hbw_normal.jpg",
+      "profilUrl": "https://x.com/cryptogemstar",
+      "score": 0.4,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:04:46.648Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Hunter crypto 100X",
+      "handle": "huntcrypto100xx",
+      "bio": "Official Partner -",
+      "avatar": "https://pbs.twimg.com/profile_images/1804489455610318848/XWFNyevC_normal.jpg",
+      "profilUrl": "https://x.com/huntcrypto100xx",
+      "score": 0.4,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:05:33.856Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Crypto King",
+      "handle": "Dacryptoking12",
+      "bio": "Crypto Marketer & Influencer",
+      "avatar": "https://pbs.twimg.com/profile_images/1682734305766969344/DWQ2HEVx_normal.jpg",
+      "profilUrl": "https://x.com/Dacryptoking12",
+      "score": 0.5,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:05:52.648Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Boonj",
+      "handle": "Crypto_Boonj",
+      "bio": "(Trencher, Marketer, Crypto Degen)\n\nAxiom Referal:",
+      "avatar": "https://pbs.twimg.com/profile_images/1933726281545273344/Y3Q0U-mP_normal.jpg",
+      "profilUrl": "https://x.com/Crypto_Boonj",
+      "score": 0.4,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:06:04.316Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "MattCalvin.Crypto",
+      "handle": "RealMattCalvin",
+      "bio": "Entrepreneur, Marketer",
+      "avatar": "https://pbs.twimg.com/profile_images/1893520549868875776/mZBaArZm_normal.jpg",
+      "profilUrl": "https://x.com/RealMattCalvin",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:06:33.947Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Jerry",
+      "handle": "Jerry_HCcapital",
+      "bio": "Holder | Invester | Crypto Marketer | Community Manager Learn from yesterday, live for today, hope for tomorrow!",
+      "avatar": "https://pbs.twimg.com/profile_images/1929210214055866369/6V6sgCvo_normal.jpg",
+      "profilUrl": "https://x.com/Jerry_HCcapital",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:07:06.764Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Daniel Cawrey",
+      "handle": "danielcawrey",
+      "bio": "Crypto marketer and strategist. Advisor",
+      "avatar": "https://pbs.twimg.com/profile_images/1897492754839838720/irYNicj-_normal.png",
+      "profilUrl": "https://x.com/danielcawrey",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:07:22.542Z",
+      "termeRecherche": "crypto marketer"
+    },
+    {
+      "nom": "Amid",
+      "handle": "amid90",
+      "bio": "Product Manager I Web3 Advisor I Director of Project Acquisition at",
+      "avatar": "https://pbs.twimg.com/profile_images/1646276474373312512/Ob96uY62_normal.jpg",
+      "profilUrl": "https://x.com/amid90",
+      "score": 0.30000000000000004,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:08:01.760Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "Ana Pérez",
+      "handle": "Anacarolinatz",
+      "bio": "Disfruto aprender, viajar, escribir y crear soluciones con lo aprendido, lo demás son etiquetas. | Product Manager | Web3 | Content Creator (Collabs via DM",
+      "avatar": "https://pbs.twimg.com/profile_images/1816936897291145216/igqtIGDp_normal.jpg",
+      "profilUrl": "https://x.com/Anacarolinatz",
+      "score": 0.4,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "web3",
+        "ido"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:09:10.766Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "Chief",
+      "handle": "chieflabz",
+      "bio": "Chief@chieflabz",
+      "avatar": "https://pbs.twimg.com/profile_images/1873900629078233088/IuqIe2gq_normal.jpg",
+      "profilUrl": "https://x.com/chieflabz",
+      "score": 0,
+      "potentiel": 1,
+      "statut": "qualifié",
+      "tags": [],
+      "derniereMiseAJour": "2025-07-03T13:09:46.768Z",
+      "termeRecherche": "defi product manager"
+    },
+    {
+      "nom": "SeinahpetS",
+      "handle": "seinahpets",
+      "bio": ":: Product Manager for",
+      "avatar": "https://pbs.twimg.com/profile_images/1781593170981355520/mSOKNpmK_normal.jpg",
+      "profilUrl": "https://x.com/seinahpets",
+      "score": 0,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [],
+      "derniereMiseAJour": "2025-07-03T13:10:10.800Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "Nicolas Duchemin",
+      "handle": "NicolasDuch3min",
+      "bio": "Product Marketing Manager at",
+      "avatar": "https://pbs.twimg.com/profile_images/1804921080529739776/9d-9z4rc_normal.jpg",
+      "profilUrl": "https://x.com/NicolasDuch3min",
+      "score": 0.2,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "ico"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:10:34.030Z",
+      "termeRecherche": "web3 product manager"
+    },
+    {
+      "nom": "JJ",
+      "handle": "jayjaycapital",
+      "bio": "JJ@jayjaycapital",
+      "avatar": "https://pbs.twimg.com/profile_images/1921932789374455808/J6QNVOyB_normal.jpg",
+      "profilUrl": "https://x.com/jayjaycapital",
+      "score": 0,
+      "potentiel": 1,
+      "statut": "qualifié",
+      "tags": [],
+      "derniereMiseAJour": "2025-07-03T13:11:31.711Z",
+      "termeRecherche": "blockchain product manager"
+    },
+    {
+      "nom": "Yurii Andrusiak",
+      "handle": "yurii_an",
+      "bio": "Building Mobile Asset Manager",
+      "avatar": "https://pbs.twimg.com/profile_images/1652974729777512448/zefbUG_J_normal.jpg",
+      "profilUrl": "https://x.com/yurii_an",
+      "score": 0,
+      "potentiel": 1,
+      "statut": "validé",
+      "tags": [],
+      "derniereMiseAJour": "2025-07-03T13:13:26.249Z",
+      "termeRecherche": "defi product manager"
+    },
+    {
+      "nom": "Sophia Crypto",
+      "handle": "Sophia_Cryptoo",
+      "bio": "Crypto Influencer, Marketing and Campaign Manager, Community Builder, Crypto Projects, NFTs and Gaming promoter | DM For Promo",
+      "avatar": "https://pbs.twimg.com/profile_images/1838916524364423168/zZEgSb7U_normal.jpg",
+      "profilUrl": "https://x.com/Sophia_Cryptoo",
+      "score": 0.8999999999999999,
+      "potentiel": 3,
+      "statut": "qualifié",
+      "tags": [
+        "nft",
+        "crypto"
+      ],
+      "derniereMiseAJour": "2025-07-03T13:13:12.747Z",
+      "termeRecherche": "crypto project manager"
     }
   ]
 }

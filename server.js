@@ -13,6 +13,7 @@ app.use(cors({
     'http://localhost:3000',
     'http://localhost:3001',
     'https://frontend-vendre-base.vercel.app',
+    'https://front-leads.vercel.app',
     'https://*.vercel.app',
     'https://*.vercel.com'
   ],

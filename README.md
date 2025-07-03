@@ -326,4 +326,4 @@ L'API affiche des logs détaillés :
 
 ## 📄 Licence
 
-ISC - Voir le fichier LICENSE pour plus de détails. 
+ISC - Voir le fichier LICENSE pour plus de détails. # CORS update

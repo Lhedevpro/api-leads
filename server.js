@@ -1,5 +1,4 @@
 const express = require('express');
-const cors = require('cors');
 const path = require('path');
 const fs = require('fs-extra');
 const leadsService = require('./leads-service');
@@ -7,26 +6,17 @@ const leadsService = require('./leads-service');
 const app = express();
 const PORT = process.env.PORT || 3003;
 
-// Middleware
-app.use(cors({
-  origin: 'https://front-leads.vercel.app',
-  credentials: true,
-  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization', 'x-site-access', 'x-origin', 'x-user-address']
-}));
-
-// Middleware pour forcer les headers CORS
+// Middleware CORS global (à mettre tout en haut)
 app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', 'https://front-leads.vercel.app');
-  res.header('Access-Control-Allow-Credentials', 'true');
-  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
-  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, x-site-access, x-origin, x-user-address');
-  
+  res.setHeader('Access-Control-Allow-Origin', 'https://front-leads.vercel.app');
+  res.setHeader('Access-Control-Allow-Credentials', 'true');
+  res.setHeader('Access-Control-Allow-Methods', 'GET,POST,PUT,DELETE,OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type,Authorization,x-site-access,x-origin,x-user-address');
   if (req.method === 'OPTIONS') {
-    res.sendStatus(200);
-  } else {
-    next();
+    res.status(200).end();
+    return;
   }
+  next();
 });
 
 app.use(express.json());

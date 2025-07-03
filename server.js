@@ -14,6 +14,21 @@ app.use(cors({
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization', 'x-site-access', 'x-origin', 'x-user-address']
 }));
+
+// Middleware pour forcer les headers CORS
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', 'https://front-leads.vercel.app');
+  res.header('Access-Control-Allow-Credentials', 'true');
+  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, x-site-access, x-origin, x-user-address');
+  
+  if (req.method === 'OPTIONS') {
+    res.sendStatus(200);
+  } else {
+    next();
+  }
+});
+
 app.use(express.json());
 
 // Charger les prospects vendables
